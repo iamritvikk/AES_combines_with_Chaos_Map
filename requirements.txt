@@ -1,4 +1,4 @@
-AES ombined with Chaos Map
+AES combined with Chaos Map
 
 Description
 This is an Online Image Encryptor that encrypts your image using AES - Advance Encryption Standards combined with Arnold's Cat Chaotic Map. 
